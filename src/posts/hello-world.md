@@ -4,7 +4,10 @@ description: An intro post and brain dump
 author: grace
 date: 2022-05-18T03:55:13.316Z
 tags:
-  - Tags
+  - life update
+  - diabetes
+  - weight loss
+  - ozempic
 ---
 Well, I finally did it!!!! I finally threw together a blog! I realize that I need to stop trying to reinvent the wheel when I can literally just... *do the thing* and use a tested, public blog platform. I still made some tiny tweaks (this background is how dark my soul is) but I'm overall happy with this super basic theme. **Bonus:** I can blog from my phone. Mwahahaha. Laziness at its finest.
 
