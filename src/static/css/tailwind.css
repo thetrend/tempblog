@@ -3,6 +3,19 @@
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
+body {
+  background: #221f21;
+  color: #c3b5bd;
+}
+
+.logo {
+  font-family: 'American Typewriter', monospace;
+  color: #a5959e;
+}
+
+.d {
+  color: #ff8cce;
+}
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
